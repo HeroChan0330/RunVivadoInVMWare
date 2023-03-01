@@ -9,8 +9,7 @@
 针对特定的Vivado版本，建议使用此Vivado版本之前发布的Linux发行版(Vivado建议在测试过的Linux系统运行，毕竟Linux的兼容性不像Windows那样)。比如我使用Vivado2020.1，建议使用Ubuntu18.04以下的版本。使用VMWare Workstation进行安装，不会的跟着这个教程去做就行了。  
 [https://blog.csdn.net/qq_39657434/article/details/112252844](https://blog.csdn.net/qq_39657434/article/details/112252844)  
 内存分配尽量多分但不要超过实体机。
-然后跟着这个教程去按照Vivado.  
-[https://blog.csdn.net/weixin_43361652/article/details/127926005](https://blog.csdn.net/weixin_43361652/article/details/127926005)  
+然后Xilinx官网下载Linux版Vivado，**chmod +x 下载文件**给运行权限，然后终端运行文件即可开始安装。
 
 ## 提高体验
 Vivado跑的工程可以使用VMWare的共享文件夹进行共享，可在Windows与Linux随意访问，参考以下连接进行配置  
