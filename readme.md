@@ -31,7 +31,7 @@ pip install flask
 ```
 sudo apt-get install curl dialog
 ```
-然后将[脚本](./vscode_remote.sh)放在某个目录，比如Home。  
+然后将[脚本](./vscode_remote.sh)放在某个目录，比如Home，然后**chmod +x vscode_remote.sh**给这个脚本可运行的权限  
 Vivado设置外部编辑器**Tools->Settings->Text Editor->Custom Editor->右边3个点**  
 ![capture1](./capture1.png)
 填入以下命令  
